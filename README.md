@@ -1,4 +1,4 @@
-# Exercise 10: Unity Basics
+# Exercise 11: Growing Teddies
 
 This is an exercise for the coursera course [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity)
 
